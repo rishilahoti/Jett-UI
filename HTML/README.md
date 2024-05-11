@@ -16,7 +16,7 @@ Contributions to Jett-UI are welcome and encouraged! Whether it's adding new com
 4. Test your changes thoroughly.
 5. Submit a pull request.
 
-Please follow our [Contribution Guidelines](CONTRIBUTING.md) for more details on the contribution process.
+Please follow our [Contribution Guidelines](../CONTRIBUTING.md) for more details on the contribution process.
 
 ## Community
 
@@ -24,4 +24,4 @@ Join our community discussions [here]([link-to-discussions](https://github.com/r
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](../LICENSE).
