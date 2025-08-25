@@ -1,5 +1,5 @@
 <div align="center">
-		<img width="1000" height="279" alt="jett-ui-logo-dark" src="https://github.com/user-attachments/assets/c5eb88c1-d8ac-4e3b-8bdb-8297b8e28649" />
+		<img width="600" height="200" alt="jett-ui-logo-dark" src="https://github.com/user-attachments/assets/c5eb88c1-d8ac-4e3b-8bdb-8297b8e28649" />
 </div>
 
 <br />
@@ -13,15 +13,11 @@
 
 Head over to [Jett-UI]() for the full docs and usage guides.
 
----
-
 ## 🌟 What is Jett-UI?
 
 **Jett-UI** is an open-source library packed with creative, animated React components designed to make your projects more engaging. From fluid text effects to interactive UI elements and vibrant backgrounds, Jett-UI helps you add personality and polish to your app — all at no cost.
 
 Each component is built to be **highly adaptable**, exposing intuitive props so you can easily control visuals and behavior without digging into the source.
-
----
 
 ## ✨ Key Features
 
@@ -35,8 +31,6 @@ Each component is built to be **highly adaptable**, exposing intuitive props so 
   * TypeScript + CSS
   * TypeScript + Tailwind
 
----
-
 ## 🤝 Contributing
 
 We’d love your help to grow Jett-UI!
@@ -47,36 +41,26 @@ We’d love your help to grow Jett-UI!
 
 Thanks for supporting the project and making it better! 🙌
 
----
-
 ## 👥 Contributors
 
 <a href="https://github.com/rishilahoti/Jett-UI/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=rishilahoti/Jett-UI" />
 </a>  
 
----
-
 ## 🔧 Maintainer
 
 * [Rishi Lahoti](https://github.com/rishilahoti)
-
----
 
 ## 💖 Sponsorship
 
 If Jett-UI helps your work, consider supporting via the **Sponsor** button.
 All contributions go directly toward hosting and project upkeep — nothing else.
 
----
-
 ## 🙏 Acknowledgements
 
 Jett-UI takes inspiration from publicly available snippets and experiments.
 Each borrowed idea is rebuilt into a **customizable, production-ready component** for JS, TS, CSS, and Tailwind projects.
 If you’d like credit for something that inspired Jett-UI, just reach out — we’ll be glad to acknowledge your work.
-
----
 
 ## 📜 License
 
